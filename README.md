@@ -1,0 +1,1 @@
+# Python 1ITF My **Python projects** (1ITF - Thomas More). <p align="center">     <img src="https://www.thomasmore.be/themes/wundertheme/logo.svg" alt="Thomas More Kempen" width="300" /> </p> 

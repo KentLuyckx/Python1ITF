@@ -1,0 +1,10 @@
+number = int(input("Enter a three digit number: "))
+
+print("Half = ", number / 2)
+print("Double = ", number * 2)
+print("Third power = ", number ** 3)
+print("Tenfold = ", number * 10)
+print("The digits are: ")
+print(number // 100)
+print((number % 100) // 10)
+print((number % 100) % 10)
